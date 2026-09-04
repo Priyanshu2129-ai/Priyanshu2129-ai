@@ -32,9 +32,7 @@
 - AI & Modern Technologies
 
 > 💡 Learn. Build. Improve. Repeat. 🚀
-> <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2129-ai&show_icons=true&theme=tokyonight" />
-</p>
+
 
 > ### 👾 Git Invaders
 
