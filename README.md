@@ -32,3 +32,6 @@
 - AI & Modern Technologies
 
 > 💡 Learn. Build. Improve. Repeat. 🚀
+> ### 👾 Git Invaders
+
+<img src="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/git-invader-multi-dark.svg" width="100%">
