@@ -38,5 +38,5 @@
 
 <img src="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/git-invader-multi-dark.svg" width="100%">
 ### 📊 GitHub Stats
-
+<img src="./profile/stats.svg" width="100%">
 
