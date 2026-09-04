@@ -32,6 +32,13 @@
 - AI & Modern Technologies
 
 > 💡 Learn. Build. Improve. Repeat. 🚀
+> <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2129-ai&show_icons=true&theme=tokyonight" />
+</p>
+
 > ### 👾 Git Invaders
 
 <img src="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/git-invader-multi-dark.svg" width="100%">
+### 📊 GitHub Stats
+
+
