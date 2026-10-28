@@ -1,46 +1,104 @@
-# 👋 Hi, I'm Priyanshu Kumar
 
-🎓 3rd Year Diploma CSE Student  
-💻 Currently Learning Web Development & Software Development  
-🌱 Building my fundamentals in programming and development
+<div align="center">
 
-### 💻 Languages & Technologies 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-</p>
+# 👋 Hey, I'm Priyanshu Kumar
 
-### 🛠️ Tools & Skills
+### Diploma CSE Student | Developer in Progress
 
-- 🔧 Git & GitHub
-- 🧠 Basic Programming & Problem Solving
-- 📚 Programming Fundamentals
-- 💡 Learning through Projects & Practice
+*Learning by building. Improving with every commit.*
 
-### 🚀 Currently Learning
+<a href="https://github.com/Priyanshu2129-ai">
+  <img src="https://img.shields.io/badge/GitHub-Priyanshu2129--ai-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
 
-- Web Development
-- Software Development Fundamentals
-- Programming & Problem Solving
-- AI & Modern Technologies
+</div>
 
-> 💡 Learn. Build. Improve. Repeat. 🚀
+---
 
+## 🚀 About Me
 
-> 👾 Git Invaders
+I'm a Computer Science and Engineering diploma student interested in
+software development, web technologies, and practical problem-solving.
 
-<img src="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/git-invader-multi-dark.svg" width="100%">
-### 📊 GitHub Stats
-<img src="./profile/stats.svg" width="100%">
+- 💻 Practicing programming with Java, Python, and C
+- 🌐 Learning web development and full-stack fundamentals
+- 🗄️ Exploring databases and backend development
+- 🧪 Learning by experimenting, building, and improving projects
+- 🎯 Goal: build useful software and strengthen my development skills
 
-### 💻 Most Used Languages
+---
 
-<img src="./profile/top-langs.svg" width="100%">
+## 🛠️ Technologies I'm Learning
 
+| Category | Technologies |
+|---|---|
+| Programming | C, Java, Python |
+| Web | HTML, CSS, JavaScript |
+| Frontend | React |
+| Backend | Node.js, Express |
+| Databases | SQL, MongoDB |
+| Tools | Git, GitHub, VS Code |
+
+> My experience varies by technology. I'm continuously practicing
+> and improving through small programs and projects.
+
+---
+
+## 🌟 Featured Projects
+
+### 📚 Student Resource Hub
+A planned platform for organizing student notes, study resources,
+and learning materials in one place.
+
+**Focus:** Web development · Information organization
+
+### 🧭 LocaHelp
+A voice-first hyperlocal service discovery project designed to help
+people discover nearby local service providers.
+
+**Focus:** Accessibility · Local discovery · User experience
+
+[Explore the LocaHelp demo](https://local-help-demo.vercel.app)
+
+### 📈 InvestIQ
+A finance-learning project concept focused on market information
+and virtual portfolio tracking for educational use.
+
+**Focus:** Dashboard UI · Data visualization · Financial learning
+
+> Project descriptions should be updated to match the features
+> actually implemented in each repository.
+
+---
+
+## 📂 Programming Practice
+
+- [Java Practice](https://github.com/Priyanshu2129-ai/JAVA-PRACTICE-)
+- [HTML Practice](https://github.com/Priyanshu2129-ai/HTML-PRACTICE)
+- [Python Practice](https://github.com/Priyanshu2129-ai/PYTHON-PRACTICE)
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2129-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2129-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+</div>
+
+---
+
+## 📫 Connect
+
+- GitHub: [@Priyanshu2129-ai](https://github.com/Priyanshu2129-ai)
+
+---
+
+<div align="center">
+
+**Learning • Building • Improving 🚀**
+
+</div>
