@@ -59,8 +59,21 @@
 
 **// The numbers behind the code**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2129-ai&show_icons=true&hide_border=true&bg_color=101510&title_color=B7FF5A&icon_color=FF3030&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2129-ai&layout=compact&hide_border=true&bg_color=101510&title_color=B7FF5A&text_color=FFFFFF&langs_count=8" alt="Most Used Programming Languages" />
+
+---
+
+<div align="center">
+
+### `03 // STREAK PROTOCOL`
+
+**// Consistency builds progress**
+
+<img src="https://streak-stats.demolab.com/?user=Priyanshu2129-ai&theme=dark&hide_border=true&background=101510&ring=B7FF5A&fire=FF3030&currStreakLabel=B7FF5A&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Contribution Streak" width="70%" />
+
+</div>
+
+---
+
 
 </div>
 
