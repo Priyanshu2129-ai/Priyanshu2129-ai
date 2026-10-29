@@ -1,35 +1,33 @@
-name: git-invaders
+
+name: Generate Contribution Arcade
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main, master]
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 20
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate SVG
-        uses: VARDHAMANPATEL23/git-invader@v1.0.0
+      - name: Generate arcade games
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_username: ${{ github.repository_owner }}
-          color: multi
-          mode: dark
-          ship: rocket
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,breakout'
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish games
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
