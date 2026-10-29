@@ -9,22 +9,21 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 20
 
     steps:
-      - name: Generate arcade games
+      - name: Generate contribution games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'pacman,breakout'
 
-      - name: Publish games
+      - name: Publish generated games
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
