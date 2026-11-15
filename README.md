@@ -119,13 +119,13 @@ An AI-powered voice-first hyperlocal service platform concept connecting local w
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyanshu2129-ai&show_icons=true&theme=merko&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Priyanshu2129-ai&show_icons=true&theme=merko&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2129-ai&layout=compact&theme=merko&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Priyanshu2129-ai&layout=compact&theme=merko&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Priyanshu2129-ai&theme=merko&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Priyanshu2129-ai&theme=merko&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -135,7 +135,7 @@ An AI-powered voice-first hyperlocal service platform concept connecting local w
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2129-ai&theme=merko&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2129-ai&theme=merko&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
