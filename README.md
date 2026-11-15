@@ -133,6 +133,22 @@ An AI-powered voice-first hyperlocal service platform concept connecting local w
 
 ---
 
+## 🧱 Breakout Contribution Animation
+
+<div align="center">
+
+<p>My GitHub contributions, transformed into a classic Breakout arcade animation.</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/github-contribution-grid-breek-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/github-contribution-grid-breek.svg">
+  <img src="https://raw.githubusercontent.com/Priyanshu2129-ai/Priyanshu2129-ai/output/github-contribution-grid-breek.svg" alt="Breakout GitHub contribution animation" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
