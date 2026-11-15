@@ -149,39 +149,44 @@ An AI-powered voice-first hyperlocal service platform concept connecting local w
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/Priyanshu2129-ai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/over_thinker0002?obrf=Zmd5MWF6ZDFsaTBy" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://www.youtube.com/@lappucomedy2129" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.linkedin.com/in/priyanshu-prajapati-397b08395" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/Priyanshu2129" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
-</a>
-<a href="mailto:prajapatipriyanshu2129@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p>
+  <a href="https://github.com/Priyanshu2129-ai">
+    <img src="https://img.shields.io/badge/GITHUB-00FF87?style=for-the-badge&logo=github&logoColor=05060A&labelColor=10131A" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/over_thinker0002?obrf=Zmd5MWF6ZDFsaTBy">
+    <img src="https://img.shields.io/badge/INSTAGRAM-C026D3?style=for-the-badge&logo=instagram&logoColor=white&labelColor=10131A" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@lappucomedy2129">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF1744?style=for-the-badge&logo=youtube&logoColor=white&labelColor=10131A" alt="YouTube" />
+  </a>
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/priyanshu-prajapati-397b08395">
+    <img src="https://img.shields.io/badge/LINKEDIN-00B8FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=10131A" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/Priyanshu2129">
+    <img src="https://img.shields.io/badge/FOLLOW_ON_X-FFFFFF?style=for-the-badge&logo=x&logoColor=05060A&labelColor=10131A" alt="X (Twitter)" />
+  </a>
+  <a href="mailto:prajapatipriyashu2129@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=10131A" alt="Email" />
+  </a>
+</p>
+
+<sub>LET'S CONNECT • COLLABORATE • CREATE SOMETHING AWESOME</sub>
 
 </div>
-
 ---
 
 <div align="center">
 
-### LEARN → BUILD → IMPROVE → REPEAT
+### <span>⚡ BECOMING UNBEATABLE ⚡</span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:8B5CF6,100:00B8FF&height=160&section=footer&text=LEARN%20%E2%86%92%20BUILD%20%E2%86%92%20IMPROVE&fontSize=22&fontColor=FFFFFF&fontAlignY=65&animation=twinkling" alt="Neon gradient animated footer" width="100%" />
 
 **Thanks for visiting my profile!** ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=100&section=footer" />
 
 </div>
